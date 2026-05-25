@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Vite / build output
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env / secrets (matters once the AI backend arrives)
+.env
+.env.*
+!.env.example
+
+# NOTE: public/data/*.json is GENERATED but intentionally COMMITTED
+# (small, lets the site build without running Python). Do not ignore it.
