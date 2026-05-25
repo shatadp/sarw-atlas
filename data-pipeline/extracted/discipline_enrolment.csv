@@ -1,0 +1,329 @@
+level_group,broad_discipline,discipline,male,female,total
+UG,,3,4,5,6
+UG,Agriculture,Agriculture,207749,86630,294379
+UG,Architecture and Engineering,Architecture and Engineering,21,10,31
+UG,Area Studies,Area Studies,21010,21309,42319
+UG,Arts,Arts,5583302,5744439,11327741
+UG,Commerce,Commerce,2328882,2079354,4408236
+UG,Criminology,Criminology,138,82,220
+UG,Criminology & Forensic Science,Criminology & Forensic Science,1102,1409,2511
+UG,Cultural Studies,Cultural Studies,3175,3891,7066
+UG,Defence Studies,Defence Studies,559,311,870
+UG,Design,Design,13819,31494,45313
+UG,Education,Education,646915,1072393,1719308
+UG,Education,Aeronautical Engineering,15277,4982,20259
+UG,Education,Agriculture Engineering,14816,8392,23208
+UG,Education,Aircraft Maintenance Engineering,48,68,116
+UG,Education,Architecture,35273,38497,73770
+UG,Education,Artificial Intelligence,1525,648,2173
+UG,Education,Artificial Intelligence & Data Science,6896,3421,10317
+UG,Education,Artificial Intelligence & Machine Learning,7861,3838,11699
+UG,Education,Automation & Robotics,921,176,1097
+UG,Education,Automobile Engineering,238,36,274
+UG,Education,Automotive Studies,838,13,851
+UG,Education,Chemical Engineering,42411,14733,57144
+UG,Education,Civil & Environmental Engineering,52,27,79
+UG,Education,Civil Engineering,325350,96502,421852
+UG,Education,Computer Engineering,825413,428335,1253748
+UG,Engineering & Technology,Computer Science and Design,330,128,458
+UG,Engineering & Technology,Dairy Technology,2287,1295,3582
+UG,Engineering & Technology,Data Science,1858,719,2577
+UG,Engineering & Technology,Electrical & Computer Engineering,153,139,292
+UG,Engineering & Technology,Electrical and Electronics Engineering,5554,2235,7789
+UG,Engineering & Technology,Electrical Engineering,260362,91417,351779
+UG,Engineering & Technology,Electronics and Communication Engineering,17102,10813,27915
+UG,Engineering & Technology,Electronics Engineering,357536,221908,579444
+UG,Engineering & Technology,Engineering & Technology,76966,35553,112519
+UG,Engineering & Technology,Food Processing and Preservation,30,12,42
+UG,Engineering & Technology,Food Technology,10263,7943,18206
+UG,Engineering & Technology,Information Technology,87688,51382,139070
+UG,Engineering & Technology,Instrumentation Engineering,2232,1603,3835
+UG,Engineering & Technology,Marine Engineering,5138,351,5489
+UG,Engineering & Technology,Mechanical & Mechatronics Engineering,1027,143,1170
+UG,Engineering & Technology,Mechanical Engineering,502179,41462,543641
+UG,Engineering & Technology,3,4,5,6
+UG,Engineering & Technology,Mechatronics Engineering,1146,380,1526
+UG,Engineering & Technology,Metallurgical Engineering,8678,2792,11470
+UG,Engineering & Technology,Mining Engineering,9221,809,10030
+UG,Engineering & Technology,Oil Technology,71,25,96
+UG,Engineering & Technology,Other Engineering & Technology,138425,66259,204684
+UG,Engineering & Technology,Petrochemical Technology,354,41,395
+UG,Engineering & Technology,Planning,859,645,1504
+UG,Engineering & Technology,Plastic and Polymer Technology,130,30,160
+UG,Engineering & Technology,Urban Planning,26,22,48
+UG,Engineering & Technology,Data Science and Engineering,163,45,208
+UG,Engineering & Technology Total,Engineering & Technology Total,2766697,1137819,3904516
+UG,Fashion Technology,Fashion Technology,4362,14284,18646
+UG,Fine Arts,Fine Arts,23897,25920,49817
+UG,Fisheries Science,Fisheries Science,3474,2968,6442
+UG,Footwear Design,Footwear Design,1007,1353,2360
+UG,Foreign Language,Foreign Language,93263,113451,206714
+UG,Gandhian Studies,Gandhian Studies,338,469,807
+UG,Home Science,Home Science,7414,77585,84999
+UG,Hospitality and Tourism,Hospitality and Tourism,17010,4741,21751
+UG,Indian Language,Indian Language,134853,220743,355596
+UG,Information Technology,Information Technology,50,40,90
+UG,IT & Computer,IT & Computer,579083,348928,928011
+UG,Journalism & Mass Communication,Journalism & Mass Communication,17087,16392,33479
+UG,Law,Law,352791,177658,530449
+UG,Library & Information Science,Library & Information Science,34747,26448,61195
+UG,Linguistics,Linguistics,2856,4963,7819
+UG,Management,Management,568069,329457,897526
+UG,Marine Science / Oceanography,Marine Science / Oceanography,1368,187,1555
+UG,Marine Science / Oceanography,Anatomy,262,221,483
+UG,Marine Science / Oceanography,Anesthesiology,78,103,181
+UG,Marine Science / Oceanography,Ayurveda,41165,54312,95477
+UG,Marine Science / Oceanography,Bio-Chemistry,1242,1022,2264
+UG,Marine Science / Oceanography,Bio-Technology,1245,2301,3546
+UG,Marine Science / Oceanography,Cardiology,40,78,118
+UG,Medical Science,Dentistry,26741,71848,98589
+UG,Medical Science,ENT,264,317,581
+UG,Medical Science,Forensic Medicine/ Toxicology,206,181,387
+UG,Medical Science,General Medicine,120416,118120,238536
+UG,Medical Science,General Surgery,823,1398,2221
+UG,Medical Science,Gynaecology,220,184,404
+UG,Medical Science,Homeopathy,24428,37690,62118
+UG,Medical Science,3,4,5,6
+UG,Medical Science,Hospital Administration,1372,1714,3086
+UG,Medical Science,Indian Medicine,3216,4750,7966
+UG,Medical Science,Lab Medicine,140,305,445
+UG,Medical Science,Medical Management,2590,2973,5563
+UG,Medical Science,Medical Science,61081,87338,148419
+UG,Medical Science,Microbiology,458,1297,1755
+UG,Medical Science,Nephrology,12,9,21
+UG,Medical Science,Neurology,37,41,78
+UG,Medical Science,Nuclear Medicine,27,39,66
+UG,Medical Science,Nursing,109663,335367,445030
+UG,Medical Science,Occupational Therapy,1434,2771,4205
+UG,Medical Science,Ophthalmology,3153,4808,7961
+UG,Medical Science,Other Medical Science,11299,14793,26092
+UG,Medical Science,Other Science,,51,51
+UG,Medical Science,Pathology,942,2009,2951
+UG,Medical Science,Pediatrics,222,188,410
+UG,Medical Science,Pharmacy,271919,173785,445704
+UG,Medical Science,Physiology,150,152,302
+UG,Medical Science,Physiotherapy,33831,58111,91942
+UG,Medical Science,Prosthetics and Orthotics,45,73,118
+UG,Medical Science,Psychiatry,24,182,206
+UG,Medical Science,Public Health,273,266,539
+UG,Medical Science,Radiology,85,75,160
+UG,Medical Science,Radiothrapy,8,4,12
+UG,Medical Science,Science,12,6,18
+UG,Medical Science,Unani,3279,4417,7696
+UG,Medical Science Total,Medical Science Total,722402,983299,1705701
+UG,Oriental Learning,Oriental Learning,36480,24261,60741
+UG,Others,Others,22,21,43
+UG,Paramedical Science,Paramedical Science,34742,30540,65282
+UG,Physical Education,Physical Education,48524,20387,68911
+UG,Religious Studies,Religious Studies,4133,2482,6615
+UG,Science,Science,2422049,2496376,4918425
+UG,Security Management,Security Management,150,49,199
+UG,Social Science,Social Science,635523,649105,1284628
+UG,Social Work,Social Work,15447,15623,31070
+UG,Veterinary & Animal Sciences,Veterinary & Animal Sciences,15057,10261,25318
+UG,Women Studies,Women Studies,,1030,1030
+PG_MPhil_PhD,,3,4,5,6
+PG_MPhil_PhD,,Agriculture,3381,2753,6134
+PG_MPhil_PhD,Agriculture,Forestry,156,137,293
+PG_MPhil_PhD,Agriculture,Horticulture,331,379,710
+PG_MPhil_PhD,Agriculture Total,Sericulture,38735,328101,715136
+PG_MPhil_PhD,Area Studies,Area Studies,2968,3242,6210
+PG_MPhil_PhD,Area Studies Total,Area Studies Total,2968,3242,6210
+PG_MPhil_PhD,Commerce,Commerce,2985,4110,7095
+PG_MPhil_PhD,Commerce Total,Foreign Trade,299183,41144,711127
+PG_MPhil_PhD,Criminology & Forensic,Criminology & Forensic Science,20,37,57
+PG_MPhil_PhD,CScriiemnicneology & Forensic,Science Total,20,37,57
+PG_MPhil_PhD,CCuullttuurraall S Sttuuddieiess Total,Cultural Studies,221111,336688,557799
+PG_MPhil_PhD,CCuullttuurraall S Sttuuddieiess Total,Defence Studies,88,11,99
+PG_MPhil_PhD,Defence Studies Defence Studies Total,Security Studies,88,11,99
+PG_MPhil_PhD,Defence Studies Defence Studies Total,Architecture & Regional Planning,3,3,6
+PG_MPhil_PhD,Defence Studies Defence Studies Total,Design,269,246,515
+PG_MPhil_PhD,Design,Fashion and Apparel Design,,1,1
+PG_MPhil_PhD,Design Total,Interior Design,272,250,522
+PG_MPhil_PhD,Disability Studies,Disability Studies,,3,3
+PG_MPhil_PhD,Disability Studies Total,Disability Studies Total,,3,3
+PG_MPhil_PhD,Education,Education,2778,3891,6669
+PG_MPhil_PhD,Education Total,Education Total,2778,3891,6669
+PG_MPhil_PhD,Education Total,Aeronautical Engineering,509,72,581
+PG_MPhil_PhD,Education Total,Agriculture Engineering,222,105,327
+PG_MPhil_PhD,Education Total,Architecture,249,253,502
+PG_MPhil_PhD,Education Total,Chemical Engineering,1154,653,1807
+PG_MPhil_PhD,Education Total,Civil & Environmental Engineering,1,,1
+PG_MPhil_PhD,Education Total,Civil Engineering,3644,1396,5040
+PG_MPhil_PhD,Education Total,Computer Engineering,4229,3379,7608
+PG_MPhil_PhD,Education Total,3,4,5,6
+PG_MPhil_PhD,Education Total,Dairy Technology,8,17,25
+PG_MPhil_PhD,Education Total,Electrical & Computer Engineering,16,9,25
+PG_MPhil_PhD,Education Total,Electrical Engineering,3888,1547,5435
+PG_MPhil_PhD,Education Total,Electronics Engineering,3141,2309,5450
+PG_MPhil_PhD,Education Total,Engineering & Technology,364,411,775
+PG_MPhil_PhD,Education Total,Food Technology,115,168,283
+PG_MPhil_PhD,Education Total,Information Technology,39,51,90
+PG_MPhil_PhD,Education Total,Instrumentation Engineering,33,24,57
+PG_MPhil_PhD,Education Total,Marine Engineering,137,46,183
+PG_MPhil_PhD,Education Total,Mechanical Engineering,6258,660,6918
+PG_MPhil_PhD,Education Total,Metallurgical Engineering,957,260,1217
+PG_MPhil_PhD,Education Total,Mining Engineering,361,29,390
+PG_MPhil_PhD,Education Total,Other Engineering & Technology,9466,6532,15998
+PG_MPhil_PhD,Education Total,Planning,12,3,15
+PG_MPhil_PhD,Engineering & TechnologUy,rTboatna lPlanning,34817,17931,52748
+PG_MPhil_PhD,Engineering Science,Chemical Engineering,27,19,46
+PG_MPhil_PhD,Engineering Science,TotaDlata Science and Engineering,5236,3101,8337
+PG_MPhil_PhD,FFaasshhiioonn T Teecchhnnoolologygy,TotalFashion Technology,1100,4455,5555
+PG_MPhil_PhD,FFaasshhiioonn T Teecchhnnoolologygy,Fine Arts,152,192,344
+PG_MPhil_PhD,Fine Arts,Music,80,91,171
+PG_MPhil_PhD,Fine Arts,Performing Arts,69,131,200
+PG_MPhil_PhD,Fine Arts Total,Visual Arts,31176,45440,77516
+PG_MPhil_PhD,FFiisshheerriieess S Sccieienncece Total,Fisheries Science,113300,111133,224433
+PG_MPhil_PhD,FFiisshheerriieess S Sccieienncece Total,English,1715,3036,4751
+PG_MPhil_PhD,FFiisshheerriieess S Sccieienncece Total,French,12,17,29
+PG_MPhil_PhD,Foreign Language,German,,3,3
+PG_MPhil_PhD,Foreign Language,Other Foreign Languages,385,145,530
+PG_MPhil_PhD,Foreign Language Total,Spanish,21197,321110,533107
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Gandhian Studies,3333,1100,4433
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,3,4,5,6
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Home Science,120,724,844
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Nutrition,1255,80706,92851
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Bengali,340,236,576
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Hindi,1262,1566,2828
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Kannada,178,108,286
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Malayalam,91,296,387
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Odiya,44,36,80
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Other Indian Languages,627,535,1162
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Punjabi,202,245,447
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Sanskrit,700,551,1251
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Tamil,400,653,1053
+PG_MPhil_PhD,GGaannddhhiiaann S Stutuddieises Total AISHE,Telugu,204,92,296
+PG_MPhil_PhD,Indian Language Total,Urdu,4444080,4524202,8968282
+PG_MPhil_PhD,Indian Language Total,Computer Application,560,541,1101
+PG_MPhil_PhD,Indian Language Total,Computer Science,1153,1508,2661
+PG_MPhil_PhD,IT & Computer,Information Technology,258,151,409
+PG_MPhil_PhD,IT & Computer,IT & Computing,6,3,9
+PG_MPhil_PhD,IT & Computer Total,Other Science,19803,22074,41877
+PG_MPhil_PhD,Journalism & Mass,Journalism & Mass Communication,711,544,1255
+PG_MPhil_PhD,Communication,Communication,4,6,10
+PG_MPhil_PhD,Journalism & Mass,CommTuencihcnaotlioogny Total,715,550,1265
+PG_MPhil_PhD,Law Total,Law,11774466,11880055,33555511
+PG_MPhil_PhD,Library & Information,Library & Information Science,444,341,785
+PG_MPhil_PhD,SLcibiernacrey & Information,Science Total,444,341,785
+PG_MPhil_PhD,SLcibiernacrey & Information,3,4,5,6
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Linguistics,771111,558844,11229955
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Agri-Business Management,9,7,16
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Business Administration,2148,1860,4008
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Business Management,2627,2327,4954
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Financial Management,45,61,106
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Hospital Administration,12,15,27
+PG_MPhil_PhD,LLiinngguuiissttiiccss Total,Hotel Management,131,61,192
+PG_MPhil_PhD,Management,Human Resource Management,26,48,74
+PG_MPhil_PhD,Management,International Business,24,9,33
+PG_MPhil_PhD,Management,Management,27,65,92
+PG_MPhil_PhD,Management,Management Studies & Research,135,99,234
+PG_MPhil_PhD,Management,Marketing Management,60,90,150
+PG_MPhil_PhD,Management,Other Management,1329,1212,2541
+PG_MPhil_PhD,Management,Technology,5,3,8
+PG_MPhil_PhD,Management,Tourism Management,666980,590592,12517472
+PG_MPhil_PhD,Marine Science /,Marine Science / Oceanography,81,155,236
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Oceanography Total,81,155,236
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Anatomy,44,57,101
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Anesthesiology,32,22,54
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Ayurveda,464,429,893
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Bio-Chemistry,168,256,424
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Bio-Physics,23,31,54
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Bio-Statistics,2,,2
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Bio-Technology,427,696,1123
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Cardiology,183,40,223
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Dentistry,338,365,703
+PG_MPhil_PhD,OMcaerainnoeg Srcaipehnyce /,Dermatology,,3,3
+PG_MPhil_PhD,Medical Science,Endocrinology,45,38,83
+PG_MPhil_PhD,Medical Science,ENT,7,5,12
+PG_MPhil_PhD,Medical Science,Forensic Medicine/ Toxicology,16,21,37
+PG_MPhil_PhD,Medical Science,Gastroenterology,161,27,188
+PG_MPhil_PhD,Medical Science,General Medicine,432,476,908
+PG_MPhil_PhD,Medical Science,General Surgery,31,7,38
+PG_MPhil_PhD,Medical Science,Gynaecology,3,6,9
+PG_MPhil_PhD,Medical Science,Haematology,18,10,28
+PG_MPhil_PhD,Medical Science,Hepatology,14,2,16
+PG_MPhil_PhD,AISHE,Homeopathy,140,113,253
+PG_MPhil_PhD,AISHE,3,4,5,6
+PG_MPhil_PhD,AISHE,Indian Medicine,4,5,9
+PG_MPhil_PhD,AISHE,Lab Medicine,3,8,11
+PG_MPhil_PhD,AISHE,Medical Physics,11,9,20
+PG_MPhil_PhD,AISHE,Medical Science,307,425,732
+PG_MPhil_PhD,AISHE,Microbiology,170,321,491
+PG_MPhil_PhD,AISHE,Nephrology,73,34,107
+PG_MPhil_PhD,AISHE,Neurology,281,95,376
+PG_MPhil_PhD,AISHE,Nuclear Medicine,6,1,7
+PG_MPhil_PhD,AISHE,Nursing,174,642,816
+PG_MPhil_PhD,AISHE,Occupational Therapy,9,15,24
+PG_MPhil_PhD,AISHE,Oncology,97,95,192
+PG_MPhil_PhD,AISHE,Ophthalmology,21,13,34
+PG_MPhil_PhD,Medical Science,Orthopaedics,4,,4
+PG_MPhil_PhD,Medical Science,Other Medical Science,881,1150,2031
+PG_MPhil_PhD,Medical Science,Pathology,7,22,29
+PG_MPhil_PhD,Medical Science,Pediatrics,61,41,102
+PG_MPhil_PhD,Medical Science,Pharmacy,2028,1908,3936
+PG_MPhil_PhD,Medical Science,Physiology,34,70,104
+PG_MPhil_PhD,Medical Science,Physiotherapy,167,237,404
+PG_MPhil_PhD,Medical Science,Plastic Surgery,57,40,97
+PG_MPhil_PhD,Medical Science,Psychiatry,37,67,104
+PG_MPhil_PhD,Medical Science,Public Health,57,58,115
+PG_MPhil_PhD,Medical Science,Radiology,18,10,28
+PG_MPhil_PhD,Medical Science,Radiothrapy,1,1,2
+PG_MPhil_PhD,Medical Science Total,Urology,7210426,78798,15018514
+PG_MPhil_PhD,Medical Science Total,Jyotisha,44,11,55
+PG_MPhil_PhD,Medical Science Total,Oreintal Learning,31,4,35
+PG_MPhil_PhD,Medical Science Total,Oriental Learning,373,201,574
+PG_MPhil_PhD,Oriental Learning,Philosophy,16,1,17
+PG_MPhil_PhD,Oriental Learning,Veda,51439,22181,74610
+PG_MPhil_PhD,Oriental Learning,3,4,5,6
+PG_MPhil_PhD,Oriental Learning,Physical Education,799,259,1058
+PG_MPhil_PhD,Physical Education TotalYoga,Physical Education TotalYoga,87778,32623,1119491
+PG_MPhil_PhD,Physical Education TotalYoga,Buddhist Studies,67,19,86
+PG_MPhil_PhD,Religious Studies,Islamic Studies,85,44,129
+PG_MPhil_PhD,Religious Studies,Jainism,15,2,17
+PG_MPhil_PhD,Religious Studies,Religious Studies,158,105,263
+PG_MPhil_PhD,Religious Studies,Theology,35372,18199,54561
+PG_MPhil_PhD,Religious Studies,Applied Sciences & Humanities,22,10,32
+PG_MPhil_PhD,Religious Studies,Bio-Chemistry,5,17,22
+PG_MPhil_PhD,Religious Studies,Bio-Science,912,1638,2550
+PG_MPhil_PhD,Religious Studies,Bio-Technology,48,99,147
+PG_MPhil_PhD,Religious Studies,Botany,1157,1687,2844
+PG_MPhil_PhD,Religious Studies,Chemistry,5261,4463,9724
+PG_MPhil_PhD,Religious Studies,Economic Science,8,7,15
+PG_MPhil_PhD,Religious Studies,Electronics,143,119,262
+PG_MPhil_PhD,Science,Environmental Science,647,642,1289
+PG_MPhil_PhD,Science,Genetics,25,38,63
+PG_MPhil_PhD,Science,Geology,645,363,1008
+PG_MPhil_PhD,Science,Geo-Physics,147,48,195
+PG_MPhil_PhD,Science,Life Science,801,1363,2164
+PG_MPhil_PhD,Science,Mathematics,206,333,539
+PG_MPhil_PhD,Science,Mathematics,1002,941,1943
+PG_MPhil_PhD,Science,Microbiology,22,49,71
+PG_MPhil_PhD,Science,3,4,5,6
+PG_MPhil_PhD,Science,Other Science,3997,4299,8296
+PG_MPhil_PhD,Science,Physics,4905,3292,8197
+PG_MPhil_PhD,Science,Science,1513,1524,3037
+PG_MPhil_PhD,Science,Statistics,49,52,101
+PG_MPhil_PhD,Science Total,Zoology,221612027,221770128,452382245
+PG_MPhil_PhD,Science Total,Anthropology,82,97,179
+PG_MPhil_PhD,Science Total,Archaeology,7,3,10
+PG_MPhil_PhD,Science Total,Economics,1584,1573,3157
+PG_MPhil_PhD,Science Total,Geography,705,500,1205
+PG_MPhil_PhD,Science Total,History,1521,1206,2727
+PG_MPhil_PhD,Science Total,Humanities & Social Sciences,711,728,1439
+PG_MPhil_PhD,Science Total,Life Sciences & Health Care,2,9,11
+PG_MPhil_PhD,Social Science,Mathematics,1737,1279,3016
+PG_MPhil_PhD,Social Science,Other Social Science,2758,2823,5581
+PG_MPhil_PhD,Social Science,Philosophy,817,535,1352
+PG_MPhil_PhD,Social Science,Political Science,1529,942,2471
+PG_MPhil_PhD,Social Science,Population Studies,126,83,209
+PG_MPhil_PhD,Social Science,Psychology,401,972,1373
+PG_MPhil_PhD,Social Science,Public Administration,253,134,387
+PG_MPhil_PhD,Social Science,Social Science,535,398,933
+PG_MPhil_PhD,Social Science,Sociology,826,979,1805
+PG_MPhil_PhD,Social Science Total,Statistics,1369939,12316043,26025072
+PG_MPhil_PhD,SSoocciiaall WWoorrkk Total,Social Work,550011,448866,998877
+PG_MPhil_PhD,Veterinary & Animal,Dairy Science,1,,1
+PG_MPhil_PhD,Sciences Veterinary & Animal,ScienVecetesr Tinoatrayl & Animal Sciences,445543,446633,991176
+PG_MPhil_PhD,Women Studies Total,Women Studies,3399,9977,113366
+PG_MPhil_PhD,Grand Total,Grand Total,113863,98611,212474

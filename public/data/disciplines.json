@@ -1,0 +1,212 @@
+{
+  "scope": "national",
+  "level": "UG",
+  "total_ug_enrolment": 33127729,
+  "disciplines": [
+    {
+      "discipline": "Arts",
+      "ug_enrolment": 11327741,
+      "share_pct": 34.19
+    },
+    {
+      "discipline": "Science",
+      "ug_enrolment": 4918425,
+      "share_pct": 14.85
+    },
+    {
+      "discipline": "Commerce",
+      "ug_enrolment": 4408236,
+      "share_pct": 13.31
+    },
+    {
+      "discipline": "Engineering & Technology",
+      "ug_enrolment": 3904516,
+      "share_pct": 11.79
+    },
+    {
+      "discipline": "Education",
+      "ug_enrolment": 1719308,
+      "share_pct": 5.19
+    },
+    {
+      "discipline": "Medical Science",
+      "ug_enrolment": 1705701,
+      "share_pct": 5.15
+    },
+    {
+      "discipline": "Social Science",
+      "ug_enrolment": 1284628,
+      "share_pct": 3.88
+    },
+    {
+      "discipline": "IT & Computer",
+      "ug_enrolment": 928011,
+      "share_pct": 2.8
+    },
+    {
+      "discipline": "Management",
+      "ug_enrolment": 897526,
+      "share_pct": 2.71
+    },
+    {
+      "discipline": "Law",
+      "ug_enrolment": 530449,
+      "share_pct": 1.6
+    },
+    {
+      "discipline": "Indian Language",
+      "ug_enrolment": 355596,
+      "share_pct": 1.07
+    },
+    {
+      "discipline": "Agriculture",
+      "ug_enrolment": 294379,
+      "share_pct": 0.89
+    },
+    {
+      "discipline": "Foreign Language",
+      "ug_enrolment": 206714,
+      "share_pct": 0.62
+    },
+    {
+      "discipline": "Home Science",
+      "ug_enrolment": 84999,
+      "share_pct": 0.26
+    },
+    {
+      "discipline": "Physical Education",
+      "ug_enrolment": 68911,
+      "share_pct": 0.21
+    },
+    {
+      "discipline": "Paramedical Science",
+      "ug_enrolment": 65282,
+      "share_pct": 0.2
+    },
+    {
+      "discipline": "Library & Information Science",
+      "ug_enrolment": 61195,
+      "share_pct": 0.18
+    },
+    {
+      "discipline": "Oriental Learning",
+      "ug_enrolment": 60741,
+      "share_pct": 0.18
+    },
+    {
+      "discipline": "Fine Arts",
+      "ug_enrolment": 49817,
+      "share_pct": 0.15
+    },
+    {
+      "discipline": "Design",
+      "ug_enrolment": 45313,
+      "share_pct": 0.14
+    },
+    {
+      "discipline": "Area Studies",
+      "ug_enrolment": 42319,
+      "share_pct": 0.13
+    },
+    {
+      "discipline": "Journalism & Mass Communication",
+      "ug_enrolment": 33479,
+      "share_pct": 0.1
+    },
+    {
+      "discipline": "Social Work",
+      "ug_enrolment": 31070,
+      "share_pct": 0.09
+    },
+    {
+      "discipline": "Veterinary & Animal Sciences",
+      "ug_enrolment": 25318,
+      "share_pct": 0.08
+    },
+    {
+      "discipline": "Hospitality and Tourism",
+      "ug_enrolment": 21751,
+      "share_pct": 0.07
+    },
+    {
+      "discipline": "Fashion Technology",
+      "ug_enrolment": 18646,
+      "share_pct": 0.06
+    },
+    {
+      "discipline": "Linguistics",
+      "ug_enrolment": 7819,
+      "share_pct": 0.02
+    },
+    {
+      "discipline": "Cultural Studies",
+      "ug_enrolment": 7066,
+      "share_pct": 0.02
+    },
+    {
+      "discipline": "Religious Studies",
+      "ug_enrolment": 6615,
+      "share_pct": 0.02
+    },
+    {
+      "discipline": "Fisheries Science",
+      "ug_enrolment": 6442,
+      "share_pct": 0.02
+    },
+    {
+      "discipline": "Criminology & Forensic Science",
+      "ug_enrolment": 2511,
+      "share_pct": 0.01
+    },
+    {
+      "discipline": "Footwear Design",
+      "ug_enrolment": 2360,
+      "share_pct": 0.01
+    },
+    {
+      "discipline": "Marine Science / Oceanography",
+      "ug_enrolment": 1555,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Women Studies",
+      "ug_enrolment": 1030,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Defence Studies",
+      "ug_enrolment": 870,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Gandhian Studies",
+      "ug_enrolment": 807,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Criminology",
+      "ug_enrolment": 220,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Security Management",
+      "ug_enrolment": 199,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Information Technology",
+      "ug_enrolment": 90,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Others",
+      "ug_enrolment": 43,
+      "share_pct": 0.0
+    },
+    {
+      "discipline": "Architecture and Engineering",
+      "ug_enrolment": 31,
+      "share_pct": 0.0
+    }
+  ]
+}
