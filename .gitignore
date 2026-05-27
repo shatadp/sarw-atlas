@@ -6,6 +6,15 @@ dist/
 dist-ssr/
 *.local
 
+# TypeScript incremental build cache
+*.tsbuildinfo
+
+# Local scratch — temp downloads, exploration
+tmp/
+
+# GeoJSON build cache (regenerable; the OUTPUT in public/geo/ IS committed)
+data-pipeline/geo/cache/
+
 # Python
 __pycache__/
 *.pyc

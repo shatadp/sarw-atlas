@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/udit-001/india-maps-data/main/geojson/india.geojson
+# Source: udit-001/india-maps-data (MIT). Districts polygon set with st_nm
+# matching India 2020+ administrative boundaries (Ladakh separate, J&K reduced,
+# DH merged UT, Telangana split). We dissolve districts -> states by st_nm,
+# stamp canonical ISO 3166-2:IN codes, and simplify with mapshaper.
